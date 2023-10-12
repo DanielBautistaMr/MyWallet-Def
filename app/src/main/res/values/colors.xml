@@ -7,6 +7,8 @@
     <color name="my_secundary_color">#8c1eb1</color>
     <color name="my_green_color">#64DF38</color>
     <color name="my_red_color">#FF0000</color>
+    <color name="colorGris">#808080</color>
+
     <!--<color name="seed">#f79800</color>
     <color name="md_theme_light_primary">#885200</color>
     <color name="md_theme_light_onPrimary">#FFFFFF</color>
